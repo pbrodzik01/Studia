@@ -1,0 +1,87 @@
+************************************
+*  Sortowanie Danych Nierosnących  *
+************************************
+
+***Tablica***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0075123 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0004461 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0005766 
+
+
+***Lista***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0128768 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0005523 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0071372 
+
+
+
+
+*************************************
+*  Sortowanie Danych Niemalejących  *
+*************************************
+
+***Tablica***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0039097 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0001790 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0001642 
+
+
+***Lista***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0071397 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0001158 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0210429 
+
+
+
+
+********************************
+*  Sortowanie Danych Losowych  *
+********************************
+
+***Tablica***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0052170 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0001251 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0002071 
+
+
+***Lista***
+
+BubbleSort:
+Czas wykonywania: 00:00:00.0110377 
+
+QuickSort:
+Czas wykonywania: 00:00:00.0001550 
+
+MergeSort:
+Czas wykonywania: 00:00:00.0390388 
+

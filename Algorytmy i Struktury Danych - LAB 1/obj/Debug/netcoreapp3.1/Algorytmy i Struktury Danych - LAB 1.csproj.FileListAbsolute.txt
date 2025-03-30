@@ -1,0 +1,14 @@
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.exe
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.deps.json
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.runtimeconfig.json
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.runtimeconfig.dev.json
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.dll
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\bin\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.pdb
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.csproj.AssemblyReference.cache
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.AssemblyInfoInputs.cache
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.AssemblyInfo.cs
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.csproj.CoreCompileInputs.cache
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.dll
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.pdb
+C:\Users\Pacia\source\repos\Algorytmy i Struktury Danych - LAB 1\Algorytmy i Struktury Danych - LAB 1\obj\Debug\netcoreapp3.1\Algorytmy i Struktury Danych - LAB 1.genruntimeconfig.cache
